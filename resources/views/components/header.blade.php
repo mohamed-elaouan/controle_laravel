@@ -12,7 +12,7 @@
     }
 </style>
 <nav style="background: cyan;height: 70px;">
-    Logo
+    <h3>Mon-Controle</h3>
     <div class="pages d-flex" style="align-items: center;">
         {{-- <a href={{ route('home') }}>Home</a> --}}
         <a href="{{ route('Produit.index') }}">Produts</a>
